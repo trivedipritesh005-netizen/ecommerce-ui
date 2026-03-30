@@ -1,0 +1,19 @@
+body{
+background:#f5f6fa;
+}
+
+.product-card{
+border-radius:15px;
+transition:0.3s;
+}
+
+.product-card:hover{
+transform:translateY(-5px);
+box-shadow:0 10px 25px rgba(0,0,0,0.15);
+}
+
+.product-img{
+height:180px;
+object-fit:contain;
+padding:20px;
+}
