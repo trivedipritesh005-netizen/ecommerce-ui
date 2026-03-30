@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trivedipritesh005-netizen.github.io/ecommerce-ui/static/css/main.86a7ed3b.css",
+    "main.js": "/trivedipritesh005-netizen.github.io/ecommerce-ui/static/js/main.9cc3d844.js",
+    "static/js/453.026ebbd0.chunk.js": "/trivedipritesh005-netizen.github.io/ecommerce-ui/static/js/453.026ebbd0.chunk.js",
+    "index.html": "/trivedipritesh005-netizen.github.io/ecommerce-ui/index.html",
+    "main.86a7ed3b.css.map": "/trivedipritesh005-netizen.github.io/ecommerce-ui/static/css/main.86a7ed3b.css.map",
+    "main.9cc3d844.js.map": "/trivedipritesh005-netizen.github.io/ecommerce-ui/static/js/main.9cc3d844.js.map",
+    "453.026ebbd0.chunk.js.map": "/trivedipritesh005-netizen.github.io/ecommerce-ui/static/js/453.026ebbd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a7ed3b.css",
+    "static/js/main.9cc3d844.js"
+  ]
+}
